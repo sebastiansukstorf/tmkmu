@@ -1,0 +1,34 @@
+---
+title: "Talentmanagement bei inhabergeführten, mittelständischen Unternehmen erfolgreich einführen"
+description: "Wie KMUs strategische Personalentwicklung planen, umsetzen und wie sie davon wirklich profitieren können."
+date: 
+author:
+- name: Sebastian Sukstorf
+  url: https://github.com/sebastiansukstorf
+  affiliation: Sebastian Sukstorf - Consulting & Coaching
+  affiliation_url: https://www.sebastian.sukstorf.de
+  orcid_id: 0000-0002-1538-5658
+citation_url: https://github.com/sebastiansukstorf/tmkmu
+bibliography: sukstorf.bib
+site: distill::distill_website
+
+---
+
+# Was meinen wir konkret, wenn wir über Talentmanagement sprechen
+
+Talentmanagement ist ein großer Begriff.
+Ein Blick nach [Wikipedia](https://de.wikipedia.org) hilft uns für eine erste Näherung zunächst weiter:
+
+> "Talentmanagement bezeichnet die Gesamtheit personalpolitischer Maßnahmen in einer Organisation zur langfristigen Sicherstellung der Besetzung kritischer Rollen und Funktionen."^[vgl. @dewiki:204050263]
+
+Aus der obigen Definition lassen sich die folgenden relevanten Punkte ableiten:
+
++ die Gesamtheit aller **personalpolitischen Maßnahmen** zur
++ langfrisitgen Sicherstellung von **Stellenbesetzungen** bei den
++ **kritischen Rollen** und Funktionen im Unternehmen
+
+<aside>
+Talentmangement definiert Maßnahmen zur Besetzung kritischer Funktionen.
+</aside>
+
+Hier geht es dann weiter im Text ...

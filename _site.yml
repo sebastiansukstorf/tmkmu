@@ -1,0 +1,12 @@
+name: "Talentmanagement in KMU"
+title: "Talentmanagement in KMUs"
+description: |
+  Wie inhabergeführte, mittelständische Unternehmer strategische Personalentwicklung planen, umsetzen und wie sie davon profitieren.
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

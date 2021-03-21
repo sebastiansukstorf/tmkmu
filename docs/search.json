@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-21T17:05:03+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Talentmanagement bei inhabergeführten, mittelständischen Unternehmen erfolgreich einführen",
+      "description": "Wie KMUs strategische Personalentwicklung planen, umsetzen und wie sie davon wirklich profitieren können.",
+      "author": [
+        {
+          "name": "Sebastian Sukstorf",
+          "url": "https://github.com/sebastiansukstorf"
+        }
+      ],
+      "contents": "\nWas meinen wir konkret, wenn wir über Talentmanagement sprechen\nTalentmanagement ist ein großer Begriff. Ein Blick nach Wikipedia hilft uns für eine erste Näherung zunächst weiter:\n\n“Talentmanagement bezeichnet die Gesamtheit personalpolitischer Maßnahmen in einer Organisation zur langfristigen Sicherstellung der Besetzung kritischer Rollen und Funktionen.”1\n\nAus der obigen Definition lassen sich die folgenden relevanten Punkte ableiten:\ndie Gesamtheit aller personalpolitischen Maßnahmen zur\nlangfrisitgen Sicherstellung von Stellenbesetzungen bei den\nkritischen Rollen und Funktionen im Unternehmen\n\nTalentmangement definiert Maßnahmen zur Besetzung kritischer Funktionen.\nHier geht es dann weiter im Text …\n\n\n\nWikipedia. 2020. “Talentmanagement — Wikipedia, Die Freie Enzyklopädie.” https://de.wikipedia.org/w/index.php?title=Talentmanagement&oldid=204050263.\n\n\nvgl. Wikipedia (2020)↩︎\n",
+      "last_modified": "2021-03-21T17:05:05+01:00"
+    }
+  ],
+  "collections": []
+}
