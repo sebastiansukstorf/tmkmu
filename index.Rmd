@@ -1,6 +1,6 @@
 ---
-title: "Talentmanagement bei inhabergeführten, mittelständischen Unternehmen erfolgreich einführen"
-description: "Wie KMUs strategische Personalentwicklung planen, umsetzen und wie sie davon wirklich profitieren können."
+title: "Talentmanagement in mittelständischen, und inhabergeführten Unternehmen erfolgreich einführen"
+description: "Strategische Personalplanung initiiteren, umsetzen und als KMU davon profitieren."
 date: 
 author:
 - name: Sebastian Sukstorf
@@ -11,7 +11,6 @@ author:
 citation_url: https://github.com/sebastiansukstorf/tmkmu
 bibliography: sukstorf.bib
 site: distill::distill_website
-creative_commons: CC BY
 
 ---
 
