@@ -10,3 +10,5 @@ navbar:
     - text: "About"
       href: about.html
 output: distill::distill_article
+google_analytics: "UA-151112653-1"
+creative_commons: CC BY

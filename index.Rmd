@@ -11,6 +11,7 @@ author:
 citation_url: https://github.com/sebastiansukstorf/tmkmu
 bibliography: sukstorf.bib
 site: distill::distill_website
+creative_commons: CC BY
 
 ---
 
@@ -24,16 +25,17 @@ Ein Blick nach [Wikipedia](https://de.wikipedia.org) hilft uns für eine erste N
 Aus der obigen Definition lassen sich die folgenden relevanten Punkte ableiten:
 
 + die Gesamtheit aller **personalpolitischen Maßnahmen** zur
-+ langfrisitgen Sicherstellung von **Stellenbesetzungen** bei den
++ langfristigen Sicherstellung von **Stellenbesetzungen** bei den
 + **kritischen Rollen** und Funktionen im Unternehmen
 
 <aside>
-Talentmangement definiert Maßnahmen zur Besetzung kritischer Funktionen.
+Talentmangement sichert die Besetzung kritischer Funktionen für nachhaltigen Geschäftserfolg.
 </aside>
 
-Hotelmanagement geht es also darum dass sie langfristig sicherstellen ihre unternehmenskritische Funktion innerhalb des Unternehmens zu besetzen. 
-D.h. sie sollten sich strukturiert und planvoll Gedanken machen, wie sie Nachfolger für kritische Position identifizieren.
+Beim Talentmanagement geht es also darum, dass Unternehmen langfristig sicherstellen, ihre unternehmenskritischen Funktion in der einzelnen Funktionsbereich zu besetzen. 
+Ein planvolles und strukturiertes Vorgehen ist hierbei sinnvoll.
+Wer der geeignete Nachfolger oder die geeignete Nachfolgerin von unternehmenskritischen Positionen sein könnte, sollten sie nicht unbedingt dem Zufall überlassen.
 
-wer ist sofort Mittel kurz langfristig einsetzbar.
+Wer ist sofort, kurz-, mittel- oder langfristig für die kritische Position geeignet?
+Wir werden uns im folgenden ansehen, welche Punkte hierfür berücksichtig werden sollten und wie sie diese erfolgreich innerhalb ihres Unternehmens umsetzen sollten.
 
-wir werden uns das im Nachgang im Einzelnen ansehen was sind jetzt die Punkte die sie berücksichtigen müssen die notwendig sind die sie umsetzen sollten.
