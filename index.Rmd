@@ -1,5 +1,5 @@
 ---
-title: "Talentmanagement in mittelständischen, und inhabergeführten Unternehmen erfolgreich einführen"
+title: "Talentmanagement in mittelständischen Unternehmen erfolgreich einführen"
 description: "Strategische Personalplanung initiiteren, umsetzen und als KMU davon profitieren."
 date: 
 author:
@@ -28,7 +28,7 @@ Aus der obigen Definition lassen sich die folgenden relevanten Punkte ableiten:
 + **kritischen Rollen** und Funktionen im Unternehmen
 
 <aside>
-Talentmangement sichert die Besetzung kritischer Funktionen für nachhaltigen Geschäftserfolg.
+Talentmangement sichert die Besetzung kritischer Funktionen für einen nachhaltigen Geschäftserfolg Ihres Unternehmens.
 </aside>
 
 Beim Talentmanagement geht es also darum, dass Unternehmen langfristig sicherstellen, ihre unternehmenskritischen Funktion in der einzelnen Funktionsbereich zu besetzen. 
