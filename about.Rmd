@@ -1,10 +1,19 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Sebastian Sukstorf"
+image: "Sebastian.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/sebastiansukstorf/"
+  - label: Xing
+    url: "https://www.xing.com/profile/Sebastian_Sukstorf/"
+  - label: Twitter
+    url: "https://twitter.com/sukstorf"
+  - label: GitHub
+    url: "https://github.com/sebastiansukstorf"
+  - label: Email
+    url: "mailto:info@sebastian.sukstorf.de"
+output:
+  postcards::jolla
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
+ 
+I am an independent consultant for talent management and team development. I support executives as a business coach.

@@ -9,6 +9,8 @@ author:
   affiliation_url: https://www.sebastian.sukstorf.de
   orcid_id: 0000-0002-1538-5658
 citation_url: https://github.com/sebastiansukstorf/tmkmu
+repository_url: https://github.com/sebastiansukstorf/tmkmu
+compare_updates_url: https://github.com/sebastiansukstorf/tmkmu/compare/pubv1...master
 bibliography: sukstorf.bib
 site: distill::distill_website
 
@@ -38,7 +40,9 @@ Wer der geeignete Nachfolger oder die geeignete Nachfolgerin von unternehmenskri
 Wer ist sofort, kurz-, mittel- oder langfristig für die kritische Position geeignet?
 Wir werden uns im folgenden ansehen, welche Punkte hierfür berücksichtig werden sollten und wie sie diese erfolgreich innerhalb ihres Unternehmens umsetzen sollten.
 
-```{r, echo=FALSE}
+(ref:pkt) Prozesskette für einen Prozess
+
+```{r pkt, echo=FALSE, fig.cap='(ref:pkt)', fig.align='center', out.width='100%'}
 
 DiagrammeR::grViz("
 digraph boxes_and_circles {
@@ -79,6 +83,7 @@ gantt
     Task in sec      :2014-01-12  , 12d
     another task      : 24d
 ')
+
 ```
 
 
@@ -97,4 +102,22 @@ sequenceDiagram
   John->>Bob: How about you?
   Bob-->>John: Jolly good!
 ')
+
+```
+
+
+```{r, echo=FALSE}
+library(DiagrammeR)
+mermaid(diagram = '
+journey
+    title My working day
+    section Go to work
+      Make tea: 5: Me
+      Go upstairs: 3: Me
+      Do work: 1: Me, Cat
+    section Go home
+      Go downstairs: 5: Me
+      Sit down: 5: Me
+')
+
 ```
