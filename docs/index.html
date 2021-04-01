@@ -2039,13 +2039,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--/radix_placeholder_distill-->
   <script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
   <script src="site_libs/htmlwidgets-1.5.3/htmlwidgets.js"></script>
-  <script src="site_libs/viz-1.8.2/viz.js"></script>
-  <link href="site_libs/DiagrammeR-styles-0.2/styles.css" rel="stylesheet" />
-  <script src="site_libs/grViz-binding-1.0.6.1/grViz.js"></script>
   <script src="site_libs/d3-3.3.8/d3.min.js"></script>
   <script src="site_libs/dagre-0.4.0/dagre-d3.min.js"></script>
   <link href="site_libs/mermaid-0.3.0/dist/mermaid.css" rel="stylesheet" />
   <script src="site_libs/mermaid-0.3.0/dist/mermaid.slim.min.js"></script>
+  <link href="site_libs/DiagrammeR-styles-0.2/styles.css" rel="stylesheet" />
   <script src="site_libs/chromatography-0.1/chromatography.js"></script>
   <script src="site_libs/DiagrammeR-binding-1.0.6.1/DiagrammeR.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
@@ -2128,10 +2126,10 @@ Talentmangement sichert die Besetzung kritischer Funktionen für einen nachhalti
 
 <div class="layout-chunk" data-layout="l-body">
 <div class="figure" style="text-align: center"><span id="fig:pkt"></span>
-<div id="htmlwidget-4b975b3008d5a6bb167c" style="width:100%;height:384px;" class="grViz html-widget"></div>
-<script type="application/json" data-for="htmlwidget-4b975b3008d5a6bb167c">{"x":{"diagram":"\ndigraph boxes_and_circles {\n\n  # a \"graph\" statement\n  graph [overlap = true, fontsize = 10]\n\n  # several \"node\" statements\n  node [shape = box,\n        fontname = Helvetica]\n  A; B; C; D; E; F\n\n  node [shape = circle,\n        fixedsize = true,\n        width = 0.9] // sets as circles\n  1; 2; 3; 4; 5; 6; 7; 8\n\n  # several \"edge\" statements\n  A->1 B->2 B->3 B->4 C->A\n  1->D E->A 2->4 1->5 1->F\n  E->6 4->6 5->7 6->7 3->8\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-4b975b3008d5a6bb167c" style="width:100%;height:384px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-4b975b3008d5a6bb167c">{"x":{"diagram":"\ngraph LR\n  A(Unternehmensstrategie)\n  B(Kompetenzmodell)\n  C(Stellenarchitektur & -profile)\n  D(Mitarbeiterentwicklungsgespräche)\n  E(Personalentwicklungsmaßnahmen)\n\n  A --> B\n  B --> c\n  c --> D\n  D --> E\n  E --> A\n"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figure 1: Prozesskette für einen Prozess
+Figure 1: Die Elemente eine Talentmanagement Prozess
 </p>
 </div>
 </div>
